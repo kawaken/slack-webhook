@@ -1,0 +1,6 @@
+[[Tags]]
+Name = "tag name"
+HookUrl = "https://hooks.slack.com/services/..."
+Channel = "#general"
+UserName = "User"
+IconUrl = "http://"
